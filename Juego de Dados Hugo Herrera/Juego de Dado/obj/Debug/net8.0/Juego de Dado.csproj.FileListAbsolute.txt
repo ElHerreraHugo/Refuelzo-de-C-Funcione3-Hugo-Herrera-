@@ -1,0 +1,28 @@
+C:\Users\Memo\Desktop\Juego de Dados Hugo Herrera\Juego de Dado\bin\Debug\net8.0\Juego de Dado.exe
+C:\Users\Memo\Desktop\Juego de Dados Hugo Herrera\Juego de Dado\bin\Debug\net8.0\Juego de Dado.deps.json
+C:\Users\Memo\Desktop\Juego de Dados Hugo Herrera\Juego de Dado\bin\Debug\net8.0\Juego de Dado.runtimeconfig.json
+C:\Users\Memo\Desktop\Juego de Dados Hugo Herrera\Juego de Dado\bin\Debug\net8.0\Juego de Dado.dll
+C:\Users\Memo\Desktop\Juego de Dados Hugo Herrera\Juego de Dado\bin\Debug\net8.0\Juego de Dado.pdb
+C:\Users\Memo\Desktop\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\Juego de Dado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memo\Desktop\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\Juego de Dado.AssemblyInfoInputs.cache
+C:\Users\Memo\Desktop\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\Juego de Dado.AssemblyInfo.cs
+C:\Users\Memo\Desktop\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\Juego de Dado.csproj.CoreCompileInputs.cache
+C:\Users\Memo\Desktop\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\Juego de Dado.dll
+C:\Users\Memo\Desktop\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\refint\Juego de Dado.dll
+C:\Users\Memo\Desktop\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\Juego de Dado.pdb
+C:\Users\Memo\Desktop\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\Juego de Dado.genruntimeconfig.cache
+C:\Users\Memo\Desktop\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\ref\Juego de Dado.dll
+C:\Users\Memo\Desktop\listo hugo\Juego de Dados Hugo Herrera\Juego de Dado\bin\Debug\net8.0\Juego de Dado.exe
+C:\Users\Memo\Desktop\listo hugo\Juego de Dados Hugo Herrera\Juego de Dado\bin\Debug\net8.0\Juego de Dado.deps.json
+C:\Users\Memo\Desktop\listo hugo\Juego de Dados Hugo Herrera\Juego de Dado\bin\Debug\net8.0\Juego de Dado.runtimeconfig.json
+C:\Users\Memo\Desktop\listo hugo\Juego de Dados Hugo Herrera\Juego de Dado\bin\Debug\net8.0\Juego de Dado.dll
+C:\Users\Memo\Desktop\listo hugo\Juego de Dados Hugo Herrera\Juego de Dado\bin\Debug\net8.0\Juego de Dado.pdb
+C:\Users\Memo\Desktop\listo hugo\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\Juego de Dado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memo\Desktop\listo hugo\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\Juego de Dado.AssemblyInfoInputs.cache
+C:\Users\Memo\Desktop\listo hugo\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\Juego de Dado.AssemblyInfo.cs
+C:\Users\Memo\Desktop\listo hugo\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\Juego de Dado.csproj.CoreCompileInputs.cache
+C:\Users\Memo\Desktop\listo hugo\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\Juego de Dado.dll
+C:\Users\Memo\Desktop\listo hugo\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\refint\Juego de Dado.dll
+C:\Users\Memo\Desktop\listo hugo\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\Juego de Dado.pdb
+C:\Users\Memo\Desktop\listo hugo\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\Juego de Dado.genruntimeconfig.cache
+C:\Users\Memo\Desktop\listo hugo\Juego de Dados Hugo Herrera\Juego de Dado\obj\Debug\net8.0\ref\Juego de Dado.dll

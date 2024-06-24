@@ -1,0 +1,14 @@
+C:\Users\Memo\Desktop\Buscador de numeros Primos\Numeros Primos\bin\Debug\net8.0\Numeros Primos.exe
+C:\Users\Memo\Desktop\Buscador de numeros Primos\Numeros Primos\bin\Debug\net8.0\Numeros Primos.deps.json
+C:\Users\Memo\Desktop\Buscador de numeros Primos\Numeros Primos\bin\Debug\net8.0\Numeros Primos.runtimeconfig.json
+C:\Users\Memo\Desktop\Buscador de numeros Primos\Numeros Primos\bin\Debug\net8.0\Numeros Primos.dll
+C:\Users\Memo\Desktop\Buscador de numeros Primos\Numeros Primos\bin\Debug\net8.0\Numeros Primos.pdb
+C:\Users\Memo\Desktop\Buscador de numeros Primos\Numeros Primos\obj\Debug\net8.0\Numeros Primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memo\Desktop\Buscador de numeros Primos\Numeros Primos\obj\Debug\net8.0\Numeros Primos.AssemblyInfoInputs.cache
+C:\Users\Memo\Desktop\Buscador de numeros Primos\Numeros Primos\obj\Debug\net8.0\Numeros Primos.AssemblyInfo.cs
+C:\Users\Memo\Desktop\Buscador de numeros Primos\Numeros Primos\obj\Debug\net8.0\Numeros Primos.csproj.CoreCompileInputs.cache
+C:\Users\Memo\Desktop\Buscador de numeros Primos\Numeros Primos\obj\Debug\net8.0\Numeros Primos.dll
+C:\Users\Memo\Desktop\Buscador de numeros Primos\Numeros Primos\obj\Debug\net8.0\refint\Numeros Primos.dll
+C:\Users\Memo\Desktop\Buscador de numeros Primos\Numeros Primos\obj\Debug\net8.0\Numeros Primos.pdb
+C:\Users\Memo\Desktop\Buscador de numeros Primos\Numeros Primos\obj\Debug\net8.0\Numeros Primos.genruntimeconfig.cache
+C:\Users\Memo\Desktop\Buscador de numeros Primos\Numeros Primos\obj\Debug\net8.0\ref\Numeros Primos.dll
